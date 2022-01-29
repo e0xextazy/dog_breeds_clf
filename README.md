@@ -33,11 +33,11 @@ docker run -d -p 5000:5000 <IMAGE_NAME>
 * ### From DockerHub
 Step 1: 
 ```sh
-docker pull mbaushenko/dog_breeds_clf:latest
+docker pull mbaushenko/dog_breeds_clf:mvp
 ```
 Step 2:
 ```sh
-docker run -d -p 5000:5000 mbaushenko/dog_breeds_clf:latest
+docker run -d -p 5000:5000 mbaushenko/dog_breeds_clf:mvp
 ```
 
 ## 🚀 Usage

@@ -1,0 +1,8 @@
+gunicorn
+flask
+torchvision
+Pillow
+matplotlib==3.4.2
+pandas==1.1.4
+pyopenssl
+torch
